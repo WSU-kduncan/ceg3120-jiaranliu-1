@@ -1,4 +1,4 @@
-## Projet 3
+## Project 3
 
 ### Part 1
 
